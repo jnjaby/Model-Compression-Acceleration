@@ -35,6 +35,7 @@
 - Pruning Filters for Efficient ConvNets, ICLR, 2017 [[paper]](https://arxiv.org/pdf/1608.08710.pdf)
 - Sparsifying Neural Network Connections for Face Recognition, CVPR, 2016 [[paper]](https://pdfs.semanticscholar.org/d8e6/9677fe51836847f63e5ef84c8d3d68942d12.pdf?_ga=2.259031433.200323026.1503209786-632431917.1498533020)
 - **Learning Structured Sparsity in Deep Neural Networks**, NIPS, 2016 [[paper]](https://pdfs.semanticscholar.org/35cd/36289610df4f221c309c4420036771fcb274.pdf?_ga=2.34365986.200323026.1503209786-632431917.1498533020)
+- Pruning Convolutional Neural Networks for Resource Efficient Inference, ICLR, 2017 [[paper]](https://pdfs.semanticscholar.org/941b/12c4ad0e95faaea386626ee77c3a68792763.pdf?_ga=2.202066322.200323026.1503209786-632431917.1498533020)
 ## Knowledge Distallation
 - **Distilling the Knowledge in a Neural Network**, ArXiv, 2015 [[paper]](https://arxiv.org/pdf/1503.02531.pdf)
 - FitNets: Hints for Thin Deep Nets, ICLR, 2015 [[paper]](https://arxiv.org/pdf/1412.6550.pdf)
