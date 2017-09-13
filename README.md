@@ -48,6 +48,8 @@
 - SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5MB model size, ArXiv, 2016 [[paper]](https://arxiv.org/pdf/1602.07360.pdf)
 - Convolutional Neural Networks at Constrained Time Cost, CVPR, 2015 [[paper]](https://pdfs.semanticscholar.org/9a1b/08883a74b25f35f1df9553718899e2bdb944.pdf?_ga=2.268584178.200323026.1503209786-632431917.1498533020)
 - Flattened Convolutional Neural Networks for Feedforward Acceleration, ArXiv, 2014 [[paper]](https://arxiv.org/pdf/1412.5474.pdf)
+- Going deeper with convolutions, CVPR, 2015 [[paper]](https://arxiv.org/pdf/1409.4842.pdf)
+- Rethinking the Inception Architecture for Computer Vision, CVPR, 2016 [[paper]](https://arxiv.org/pdf/1512.00567.pdf)
 - Design of Efficient Convolutional Layers using Single Intra-channel Convolution, Topological Subdivisioning and Spatial "Bottleneck" Structure, ArXiv, 2016 [[paper]](https://arxiv.org/pdf/1608.04337.pdf)
 - **Xception: Deep Learning with Depthwise Separable Convolutions**, ArXiv, 2017 [[paper]](https://arxiv.org/pdf/1610.02357.pdf)
 - **MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**, ArXiv, 2017 [[paper]](https://arxiv.org/pdf/1704.04861.pdf)
